@@ -27,7 +27,7 @@ body {
   display: none;
 }
 
-/* .layui-form {
+.layui-form {
   padding: 0 30px;
 }
 
@@ -52,4 +52,9 @@ body {
 
 .layui-input {
   padding-left: 32px;
-} */
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
